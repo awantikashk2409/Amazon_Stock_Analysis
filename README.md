@@ -33,5 +33,6 @@ High trading volume observed during earnings announcements.
 Moving averages indicate strong upward momentum post-2020.
 
 👨‍💻 Author
-Ankit — Software Engineer ( Data Analytics )
+
+Awantika — Software Engineer ( Data Analytics )
 Exploring real-world financial data through data analytics and machine learning.
